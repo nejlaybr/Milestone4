@@ -1,0 +1,97 @@
+Nejla Yber
+CST-239 Milestone 4
+Fantasy Game Store Program
+
+
+Description
+
+This project is a console-based Fantasy Game Store application developed in Java.
+
+
+
+View products
+Purchase products
+View the shopping cart
+Return purchased products
+Exit the application
+
+The store inventory includes weapons, armor, and health items.
+
+For Milestone 4, the application was enhanced by adding file handling and inventory loading functionality. 
+Product inventory data is stored in an inventory.json file and loaded through the FileService class. 
+Custom exception handling was also implemented using the InventoryException class.
+
+The application demonstrates object-oriented programming concepts including:
+
+Inheritance
+Encapsulation
+Polymorphism
+Collections
+Exception Handling
+File Processing
+JSON Inventory Management
+
+Files Included: Java Source Files
+StoreFront.java
+InventoryManager.java
+ShoppingCart.java
+SalableProduct.java
+Weapon.java
+Armor.java
+Health.java
+FileService.java
+InventoryException.java
+
+JSON File
+inventory.json
+
+UML Diagram
+Milestone4_UML.png
+
+Flowchart
+Milestone4_Flowchart.png
+
+Program Screenshots
+Product Listing
+Purchase Product
+View Cart
+Return Product
+Exit Program
+
+
+JavaDoc Documentation
+
+Generated JavaDoc documentation for all classes.
+
+Features: Inventory Management
+Displays available products
+Stores products using ArrayList
+Supports weapons, armor, and health items
+
+Shopping Cart
+Add products to cart
+View cart contents
+Return products to inventory
+
+JSON Inventory File
+Inventory data stored in inventory.json
+File existence verified through FileService
+
+Exception Handling
+Custom InventoryException class
+Handles missing inventory file situations
+
+
+
+Video Link 1
+
+
+Video Link 2
+
+
+GitHub Repository
+
+
+Author
+
+Nejla Yber
