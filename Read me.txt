@@ -84,13 +84,13 @@ Handles missing inventory file situations
 
 
 Video Link 1
-
+https://www.loom.com/share/248952e636c940069b6987f5b6ef5f79
 
 Video Link 2
-
+https://www.loom.com/share/fe3638b3627c445fad47d5acb6bd543a
 
 GitHub Repository
-
+https://github.com/nejlaybr/Milestone4
 
 Author
 
